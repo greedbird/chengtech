@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="spinner_title">请选择</string>
+    <string name="app_name">道路养护</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">道路养护</string>
+    <string name="title_activity_notice">NoticeActivity</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+    <string name="title_activity_about_me">AboutMeActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_notice_detail">NoticeDetailActivity</string>
+    <string name="title_activity_dbm">DbmActivity</string>
+    <string name="title_activity_dbm_route">DbmRouteActivity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_dbm_section">DbmSectionActivity</string>
+    <string name="title_activity_work_section">WorkSectionActivity</string>
+    <string name="title_activity_pavement_config">PavementConfigActivity</string>
+    <string name="title_activity_road_side_facilities">RoadSideFacilitiesActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="host_address">http://192.1.40.44:8080</string>
+
+
+    <!-- 系统配置的常量名称 -->
+    <string name="specil_account">admin</string>
+    <string name="specil_account_password">000000</string>
+    <string name="title_activity_hello_chart">HelloChartActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
