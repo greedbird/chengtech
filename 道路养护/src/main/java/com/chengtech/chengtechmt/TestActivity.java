@@ -53,7 +53,7 @@ public class TestActivity extends Activity {
     LinearLayout hideLayout;
     private int hideLayoutHeight;
     RecyclerView recyclerView;
-    Button button
+    Button button;
 MyHorizontalScrollView2 scrollView2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
